@@ -1,4 +1,4 @@
 clone-- git clone "link of the github repository"
 add --  git add . 
-commit -- git commit "messege for the commit"
+commit -- git commit -m "messege for the commit"
 push-- git push origin main
