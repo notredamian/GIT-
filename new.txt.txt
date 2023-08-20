@@ -1,1 +1,5 @@
 hello i am practicing add ., commit and push in git 
+
+
+what is chatgpt?
+chatgpt stands for chat generative pre-trained transformer.
